@@ -15,6 +15,4 @@ Unlike standard safety benchmarks, this test forces models to navigate trade-off
     * Contains the raw execution logs in `.jsonl` format.
     * Includes full metadata (timestamps, prompt versions, model parameters) for reproducibility and custom analysis.
 
-> **Project Evolution:** This repository is designed as a living lab. Beyond the initial Schwartz framework, various other experiments, domains (e.g., engineering culture), and observational studies will be continuously added to broaden the analysis of AI behavior.
-
 **Project evolution:** This repository is designed as a living lab. Beyond the initial Schwartz framework, various other experiments, domains (e.g., engineering culture), and observational studies will be continuously added to broaden the analysis of AI behavior.
