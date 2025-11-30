@@ -2,6 +2,8 @@
 
 This repository hosts a benchmark for evaluating the normative reasoning and latent motivational structures of Large Language Models (LLMs). Grounded in **Schwartz’s Theory of Basic Human Values** (1992), the methodology employs a dataset of forced-choice behavioral dilemmas to reveal the model's "axiological fingerprint."
 
+Each report documents the model's responses to twenty normative dilemmas, presenting the specific question asked, the model's textual reasoning, and a self-assigned numerical score (1-10) to quantify its decision.
+
 Unlike standard safety benchmarks, this test forces models to navigate trade-offs between conflicting positive values—such as **Openness to Change vs. Conservation** or **Self-Transcendence vs. Self-Enhancement**. By analyzing these decisions, we can quantify whether a model behaves more like a "risk-taker," a "conformist," a "pragmatist," or an "altruist" in complex scenarios.
 
 
